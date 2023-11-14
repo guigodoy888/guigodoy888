@@ -12,7 +12,7 @@ Olá! Eu sou Gui Godoy, um profissional apaixonado por Tecnologia, Inovação e 
 
 - 🎓 Cursando Engenharia da Computação
 - 🚀 Participando do Programa Starter de Desenvolvimento Full Stack na Growdev e EBAC
-- 💡 Aprimorando conhecimentos técnicas e explorando o mundo Tech.
+- 💡 Aprimorando conhecimentos técnicos e explorando o mundo Tech.
 
 
 ## Conecte-se Comigo
